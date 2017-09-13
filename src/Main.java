@@ -8,6 +8,7 @@ public class Main {
         System.out.println("i");
         System.out.println("commitowania");
         System.out.println("");
+        System.out.println("");
         System.out.println("Ile masz lat?");
         Scanner scanner = new Scanner(System.in);
         Integer age = scanner.nextInt();
